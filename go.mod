@@ -1,6 +1,6 @@
 module github.com/seaweedfs/seaweedfs
 
-go 1.19
+go 1.21
 
 require (
 	cloud.google.com/go v0.105.0 // indirect
@@ -60,7 +60,7 @@ require (
 	github.com/klauspost/compress v1.15.11 // indirect
 	github.com/klauspost/reedsolomon v1.11.3
 	github.com/kurin/blazer v0.5.3
-	github.com/lib/pq v1.10.7
+	github.com/lib/pq v1.12.3
 	github.com/linxGnu/grocksdb v1.7.10
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
